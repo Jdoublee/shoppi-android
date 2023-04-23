@@ -34,7 +34,7 @@
                 android:layout_height="68dp"
                 android:layout_gravity="end"
                 android:layout_marginEnd="4dp"
-                android:contentDescription="@string/description_appbar_icon"
+                android:contentDescription="@string/description_appbar_home_icon"
                 android:scaleType="center" />
 
         </androidx.appcompat.widget.Toolbar>
